@@ -1,0 +1,8 @@
+h1{
+	text-align: center;
+	font-family: 'Times New Roman';
+}
+body{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4e/Macaca_nigra_self-portrait_large.jpg");
+	background-size: cover;
+}
